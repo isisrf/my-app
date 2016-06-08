@@ -1,0 +1,25 @@
+{
+  "version": "1.5",
+  "name": "Busca No e Low Poo",
+  "description": "Busca dinâmica de componentes proibidos e liberados para quem segue as técnicas de No e Low Poo.",
+  "icons": {
+    "16": "/images/logo-16.png",
+    "60": "/images/logo-60.png",
+    "128": "/images/logo-128.png"
+  },
+  "developer": {
+    "name": "Isis Reis",
+    "url": "http://noelowpoo.zz.mu/busca"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "en": {
+      "description": "Dynamic search of components that are forbidden and allowed for those who follow the No and Low Poo techniques.",
+      "developer": {
+        "url": "http://noelowpoo.zz.mu/busca"
+      }
+    },
+  },
+  "default_locale": "pt"
+}
